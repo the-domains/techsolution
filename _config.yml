@@ -1,20 +1,4 @@
-name: TechSolution
-favicon: null
-layout_spectrum: 0.24253
-typography_spectrum: 0.497279301751405
-title: '"We Come to You!"'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#2c3e50'
@@ -24,6 +8,11 @@ color:
     - '#ffff00'
   brandStrength: 0
   lightness: 0.625
-  saturation: 0.5
   rhythmicContrast: 0.8366298431064934
+  saturation: 0.5
+cta: {}
+layout_spectrum: 0.24253
+name: TechSolution
+opengraph: {}
 purpose: []
+typography_spectrum: 0.497279301751405
