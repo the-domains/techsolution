@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Tech Solution LLC "We Come to You!"]]></title>
-        <description><![CDATA[Tech Solution LLC "We Come to You!"]]></description>
+        <title><![CDATA[Computer Repair]]></title>
+        <description><![CDATA[Computer Repair]]></description>
         <link>http://techsolutionllc.biz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 01:45:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 20:48:36 GMT</lastBuildDate>
         <atom:link href="http://techsolutionllc.biz/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What We Do]]></title>
+            <description><![CDATA[<p>We specialize in computer repair, virus removal, Training, and networking services for your home or business.</p>]]></description>
+            <link>http://techsolutionllc.biz/what-we-do/index.html</link>
+            <guid isPermaLink="false">685a7e57-cec0-4733-8874-b39f89290b54</guid>
+            <pubDate>Sun, 21 Aug 2016 20:48:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/acae2e0c96e6bd6c340b3f63a35f25e56180c115.jpg" alt="" title="">]]></description>
             <link>http://techsolutionllc.biz/2940c1c5-80ea-440d-92bf-2f2231f8da02/index.html</link>
             <guid isPermaLink="false">2940c1c5-80ea-440d-92bf-2f2231f8da02</guid>
             <pubDate>Thu, 14 Jan 2016 18:31:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[What We Do]]></title>
-            <description><![CDATA[<article><h1>What We Do</h1><p>We specialize in computer repair, virus removal, Training, and networking services for your home or business.</p></article>]]></description>
-            <link>http://techsolutionllc.biz/what-we-do/index.html</link>
-            <guid isPermaLink="false">685a7e57-cec0-4733-8874-b39f89290b54</guid>
-            <pubDate>Thu, 14 Jan 2016 01:29:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
