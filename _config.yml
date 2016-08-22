@@ -1,7 +1,18 @@
+layout_spectrum: 0.24253
+typography_spectrum: 0.9640437993220985
+color:
+  brandColors:
+    - '#2c3e50'
+    - '#c5d82d'
+    - '#82953c'
+    - '#000000'
+    - '#ffff00'
+  brandStrength: 0
+  lightness: 0.625
+  saturation: 0.5
+  rhythmicContrast: 0.8366298431064934
 name: TechSolution
 favicon: null
-layout_spectrum: 0.24253
-typography_spectrum: 0.497279301751405
 title: Computer Repair
 cta:
   domain: null
@@ -15,15 +26,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#2c3e50'
-    - '#c5d82d'
-    - '#82953c'
-    - '#000000'
-    - '#ffff00'
-  brandStrength: 0
-  lightness: 0.625
-  saturation: 0.5
-  rhythmicContrast: 0.8366298431064934
 purpose: []
